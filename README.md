@@ -1,3 +1,5 @@
 # Go Dutch Project  
 Let's go dutch in `GoLang`  
-It is the first readme file
+## Logic
+The logic of the program is implemented in C++. Check `prototype_in_cpp` path.
+
